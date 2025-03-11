@@ -159,7 +159,7 @@ operation to succeed, and gracefully handle cases where some nodes may be in a b
 ## Configuring network requests
 
 Reading and writing blobs directly from storage nodes requires a lot of requests. The walrus SDK
-will issue all requests needed to complete these operations, but does not handling all the
+will issue all requests needed to complete these operations, but does not handle all the
 complexities a robust aggregator or publisher might encounter.
 
 By default all requests are issued using the global `fetch` for whatever runtime the SDK is running
