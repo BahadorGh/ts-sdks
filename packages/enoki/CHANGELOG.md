@@ -1,5 +1,17 @@
 # @mysten/enoki
 
+## 0.5.0
+
+### Minor Changes
+
+- 8baac61: remove jose dependency
+
+### Patch Changes
+
+- Updated dependencies [8baac61]
+- Updated dependencies [8baac61]
+  - @mysten/sui@1.23.0
+
 ## 0.4.26
 
 ### Patch Changes
